@@ -11,6 +11,12 @@
 <a href="https://www.instagram.com/amitverma7/">
   <img align="left" alt="Amit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="mailto:amitverma07@yahoo.com">
+  <img align="left" alt="Amit's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://amitverma.codes/">
+<img src="https://img.icons8.com/color/96/000000/internet.png" height="20" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amitverma07.amitverma07)
 

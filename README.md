@@ -43,4 +43,15 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+TypeScript  4 hrs 33 mins       █████████████░░░░░░░░░░░░   55.05 % 
+HTML        1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Other       1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+JSON        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+CSS         26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+```
+<!--END_SECTION:waka-->
+
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitverma07&show_icons=true&hide_border=true)

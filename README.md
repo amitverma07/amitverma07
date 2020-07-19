@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  Internee 👨🏽‍💼[@CityOfWinnipeg](https://www.winnipeg.ca/interhom/).
+Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  Internee 👨🏽‍💼[@CityofWinnipeg](https://www.winnipeg.ca/interhom/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

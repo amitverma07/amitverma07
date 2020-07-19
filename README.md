@@ -23,7 +23,6 @@
 
 [![HitCount](http://hits.dwyl.com/amitverma07/amitverma07.svg)](http://hits.dwyl.com/amitverma07/amitverma07)
 
-<br />
 
 Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  Internee 👨🏽‍💼[@CityofWinnipeg](https://www.winnipeg.ca/interhom/).
 

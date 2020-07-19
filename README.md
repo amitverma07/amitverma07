@@ -24,7 +24,7 @@
 
 Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  Internee 👨🏽‍💼[@CityofWinnipeg](https://www.winnipeg.ca/interhom/).
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 

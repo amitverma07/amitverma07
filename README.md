@@ -45,6 +45,8 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
+```text
+```
 <!--END_SECTION:waka-->
 
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitverma07&show_icons=true&hide_border=true)

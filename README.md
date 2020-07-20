@@ -19,9 +19,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amitverma07.amitverma07)
-
 <br />
-
 [![HitCount](http://hits.dwyl.com/amitverma07/amitverma07.svg)](http://hits.dwyl.com/amitverma07/amitverma07)
 
 

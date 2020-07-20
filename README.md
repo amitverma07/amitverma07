@@ -18,6 +18,7 @@
 <img src="https://img.icons8.com/color/96/000000/internet.png" height="20" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=amitverma07.amitverma07)
 <br />
 <br />
 

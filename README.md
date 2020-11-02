@@ -1,4 +1,6 @@
-### Hi there 👋🏽, I'm [Amit!](https://amitverma.codes) [![AMIT VERMA's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/amitverma07)
+### Hi there 👋🏽, I'm [Amit!](https://amitverma.codes) <a href="https://dev.to/amitverma07">
+  <i class="fab fa-dev" title="amitverma07's DEV Profile"></i>
+</a>
 
 <br/>
 
@@ -32,9 +34,10 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 - 🔭 I’m currently working on eVoting Application;
 - 🌱 I’m currently learning Python;
 - 👯 I’m looking to collaborate on building afordable Greenhouses;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amitverma07@yahoo.com;
-- 📝[Resume](https://drive.google.com/file/d/1SDiv1XVl044SnOzR-bwSLcbM-KCsNlXn/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/12wK9mBsd8plmve2uj5hjBvn70FJu1y-n/view?usp=sharing)
 
 **Languages and Tools:**  
 

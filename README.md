@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sd-amitverma/">
+<!--<a href="https://www.linkedin.com/in/sd-amitverma/">
   <img align="left" alt="Amit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>-->
 <a href="https://twitter.com/amit_verma7">
   <img align="left" alt="Amit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -16,9 +16,9 @@
 <a href="mailto:amitverma07@yahoo.com">
   <img align="left" alt="Amit's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://amitverma.codes/">
+<!--<a href="https://amitverma.codes/">
 <img src="https://img.icons8.com/color/96/000000/internet.png" height="20" />
-</a>
+</a>-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amitverma07.amitverma07)
 <br />
@@ -54,8 +54,6 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```text
-```
 <!--END_SECTION:waka-->
 
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitverma07&show_icons=true&hide_border=true)

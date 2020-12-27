@@ -32,7 +32,7 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on eVoting Application;
-- 🌱 I’m currently learning Python;
+- 🌱 I’m currently learning Angular;
 - 👯 I’m looking to collaborate on building afordable Greenhouses;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amitverma07@yahoo.com;

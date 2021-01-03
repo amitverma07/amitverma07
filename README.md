@@ -54,9 +54,7 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-HTML         12 mins         ██████████████████▒░░░░░░   73.07 % 
-TypeScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.72 % 
-CSS          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

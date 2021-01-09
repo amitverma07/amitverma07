@@ -25,7 +25,7 @@
 [![HitCount](http://hits.dwyl.com/amitverma07/amitverma07.svg)](http://hits.dwyl.com/amitverma07/amitverma07)
 
 
-Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  Internee 👨🏽‍💼[@CityofWinnipeg](https://www.winnipeg.ca/interhom/).
+Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
@@ -36,7 +36,7 @@ Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  I
 - 👯 I’m looking to collaborate on building afordable Greenhouses;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amitverma07@yahoo.com;
-- 📝[Resume](https://drive.google.com/file/d/12wK9mBsd8plmve2uj5hjBvn70FJu1y-n/view?usp=sharing)
+<!-- 📝[Resume](https://drive.google.com/file/d/12wK9mBsd8plmve2uj5hjBvn70FJu1y-n/view?usp=sharing)-->
 
 **Languages and Tools:**  
 
